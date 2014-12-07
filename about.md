@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-More to come soon.
+This is the blog for [Issue Loop](http://www.issueloop.com). We will be keeping you updated on our progress as we get started and continue to add more functionality. Stay tuned!
 
 
 ### Contact us
