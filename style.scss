@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $georgia;
   color: $darkGray;
 }
 
@@ -33,7 +33,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
+  //font-weight: bold;
   
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $teal;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $teal;
   }
 }
 
@@ -111,6 +111,7 @@ img {
 }
 
 .date {
+  font-family: $helvetica;
   font-style: italic;
   color: $gray;
 }
@@ -198,6 +199,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+  font-family: $helvetica;
   font-size: 16px;
   
   @include mobile {
@@ -261,6 +263,7 @@ nav {
   }
 
   .read-more {
+    font-family: $helvetica;
     text-transform: uppercase;
     font-size: 15px;
   }
