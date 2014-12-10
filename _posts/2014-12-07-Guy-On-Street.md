@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Conversation With a Random Guy On The Street
+title: A Hypothetical Conversation
 ---
 
-This is a hypothetical conversation with a guy on the street (GOTS):
+This is how we envision us having a hypothetical conversation with a random guy on the street (GOTS):
 
 **_Issue Loop:_** We're gonna change the world! 
 
@@ -17,6 +17,6 @@ This is a hypothetical conversation with a guy on the street (GOTS):
 
 **_GOTS:_** Oh really? I'll believe it when I see it.
 
-**_Issue Loop:_** Well, it's coming soon. We can [notify you if you give us your email address.](http://issueloop.com)
+**_Issue Loop:_** Well, it's coming soon. We can [notify you if you give us your email address.](http://issueloop.com) Or keep checking back and we'll keep you in the loop on our progress.
 
 
