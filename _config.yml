@@ -29,7 +29,8 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: issueloop
-  stackoverflow: 
+  stackoverflow:
+  googleplus: b/111135116597691018141/111135116597691018141/
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: issueloop
