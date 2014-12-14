@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Hypothetical Conversation
+disqus: yes
 ---
 
 This is how we envision us having a hypothetical conversation with a random guy on the street (GOTS):
